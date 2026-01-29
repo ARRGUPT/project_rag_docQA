@@ -1,5 +1,8 @@
 # 📄 RAG-Based Document Question Answering System
 
+## Live Demo
+[View Live App](https://arrgupt-project-rag-docqa-main-trnqq6.streamlit.app/)
+
 A powerful document question-answering system that uses Retrieval-Augmented Generation (RAG) to provide accurate answers based on uploaded PDF and text documents.
 
 ## 🎯 Features
