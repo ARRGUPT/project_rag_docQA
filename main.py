@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://project-rag-docqa.onrender.com"
 
 st.set_page_config(page_title="RAG Document QA", layout="wide")
 st.title("📄 RAG-Based Document Question Answering")
